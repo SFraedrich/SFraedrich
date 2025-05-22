@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @SFraedrich
+# 👋 Hi, I'm Shelley / @SFraedrich,
 
 🌐 Aspiring Web Developer | 🎯 Tech-Savvy Professional | 📍 Based in Phoenix, AZ  
 
@@ -10,7 +10,7 @@ HR compliance, and digital marketing. I’m passionate about building responsive
 
 ## 🛠️ Tech Stack
 
-- **Languages & Front-End:** HTML, CSS, Some JavaScript
+- **Languages & Front-End:** HTML, CSS, Some JavaScript, Github
 - **Tools & Platforms:** WordPress, Squarespace, GitHub, Canva, Zoom, ChatGPT
 - **Project Management:** Monday.com, Microsoft Project
 - **Cloud & Office:** Google Cloud, Microsoft 365, Advanced Excel
