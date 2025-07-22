@@ -6,11 +6,10 @@ I'm currently expanding my skills in front-end web development with a background
 HR compliance, and digital marketing. I’m passionate about building responsive, accessible, and user-friendly websites.
 
 ---
-- 👀 I’m interested in using my skills to advance accessibilty in tech
 
 ## 🛠️ Tech Stack
 
-- **Languages & Front-End:** HTML, CSS, Python, Some JavaScript, currently learning Python
+- **Languages & Front-End:** HTML, CSS, JavaScript, Python, Bootstrap
 - **Tools & Platforms:** WordPress, Squarespace, GitHub, Canva, Zoom, ChatGPT
 - **Project Management:** Monday.com, Microsoft Project
 - **Cloud & Office:** Google Cloud, Microsoft 365, Advanced Excel
@@ -21,6 +20,7 @@ HR compliance, and digital marketing. I’m passionate about building responsive
 
 ## 📚 Currently Learning
 
+- Python, Javascript, Bootstrap
 - Responsive Web Design
 - UI/UX Principles
 - React.js
