@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Shelley / @SFraedrich,
 
-🌐 Aspiring Web Developer | 🎯 Tech-Savvy Professional | 📍 Based in Phoenix, AZ  
+🌐 Web Developer & Designer | 🎯 Tech-Savvy Professional | 📍 Inclusive Design advocate based in Phoenix, AZ  
 
 I'm currently expanding my skills in front-end web development with a background in business management, administrative support, 
 HR compliance, and digital marketing. I’m passionate about building responsive, accessible, and user-friendly websites.
 
 ---
-- 👀 I’m interested in ...
+- 👀 I’m interested in using my skills to advance accessibilty in tech
 
 ## 🛠️ Tech Stack
 
-- **Languages & Front-End:** HTML, CSS, Some JavaScript, Github
+- **Languages & Front-End:** HTML, CSS, Python, Some JavaScript, currently learning Python
 - **Tools & Platforms:** WordPress, Squarespace, GitHub, Canva, Zoom, ChatGPT
 - **Project Management:** Monday.com, Microsoft Project
 - **Cloud & Office:** Google Cloud, Microsoft 365, Advanced Excel
 - **Digital Marketing:** SEO, Google Analytics, Meta Ads Manager, Mailchimp, Constant Contact
-- **Compliance:** HIPAA, FLSA,EEO, FMLA,OSHA, I-9, E-Verify, BYOD
+- **Compliance:** HIPAA, FLSA,EEO, FMLA, OSHA, I-9, E-Verify
 
 ---
 
