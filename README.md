@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shelley / @SFraedrich,
+# 👋 Hi, I'm Shelley West Fraedrich / @SFraedrich,
 
 🌐 Web Developer & Designer | 🎯 Tech-Savvy Professional | 📍 Inclusive Design advocate based in Phoenix, AZ  
 
