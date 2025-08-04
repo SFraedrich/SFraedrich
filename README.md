@@ -2,8 +2,9 @@
 
 🌐 Web Developer & Designer | 🎯 Tech-Savvy Professional | 📍 Inclusive Design advocate based in Phoenix, AZ  
 
-I'm currently expanding my skills in front-end web development with a background in business management, administrative support, 
-HR compliance, and digital marketing. I’m passionate about building responsive, accessible, and user-friendly websites.
+As a lifelong learner I'm currently expanding my skills in front-end web development. My background has been in 
+business management, administrative support, HR compliance, and digital marketing. I’m passionate about helping
+others with their personal and businesses by building responsive, accessible, and user-friendly websites for them. 
 
 ---
 
