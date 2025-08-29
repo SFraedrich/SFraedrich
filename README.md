@@ -1,53 +1,50 @@
-# 👋 Hi, I'm Shelley West Fraedrich / @SFraedrich,
+# 👋 Hi, I'm Shelley West Fraedrich (@Sfraedrich)
 
-🌐 Web Developer & Designer | 🎯 Tech-Savvy Professional | 📍 Inclusive Design advocate based in Phoenix, AZ  
+🌐 **Web Developer & Designer** | 🎯 Tech-Savvy Professional | 📍 Based in Phoenix, AZ  
+✨ Advocate for **responsive, accessible, and inclusive design**
 
-As a lifelong learner I'm currently expanding my skills in front-end web development. My background has been in 
-business management, administrative support, HR compliance, and digital marketing. I’m passionate about helping
-others with their personal and businesses by building responsive, accessible, and user-friendly websites for them. 
+---
+
+## 💡 About Me
+I’m a **lifelong learner** with a strong foundation in **business management, project leadership, and digital marketing**.  
+Now, I’m expanding into **front-end web development and design**, where I combine technical skills with my passion for helping businesses and individuals create **user-friendly, impactful websites**.  
+
+With over **30 years of leadership & project management experience** (including founding 3 businesses and co-founding **Covenant Digital**), I bring a proven ability to deliver results through **hard work, persistence, and attention to detail**.
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Languages & Front-End:** HTML, CSS, JavaScript, Python, Bootstrap
-- **Tools & Platforms:** WordPress, Squarespace, GitHub, Canva, Zoom, ChatGPT
-- **Project Management:** Monday.com, Microsoft Project
-- **Cloud & Office:** Google Cloud, Microsoft 365, Advanced Excel
-- **Digital Marketing:** SEO, Google Analytics, Meta Ads Manager, Mailchimp, Constant Contact
-- **Compliance:** HIPAA, FLSA,EEO, FMLA, OSHA, I-9, E-Verify
+**Languages & Front-End:** HTML, CSS, JavaScript, Python, Bootstrap  
+**CMS & Tools:** WordPress, Squarespace, GitHub, Canva, Zoom, ChatGPT  
+**Project Management:** Monday.com, Microsoft Project  
+**Cloud & Office:** Google Cloud, Microsoft 365, Advanced Excel  
+**Digital Marketing:** SEO, Google Analytics, Meta Ads Manager, Mailchimp, Constant Contact  
+**Compliance Knowledge:** HIPAA, FLSA, EEO, FMLA, OSHA, I-9, E-Verify  
 
 ---
-
-## 📚 Currently Learning
-
-- Python, Javascript, Bootstrap
-- Responsive Web Design
-- UI/UX Principles
-- React.js
-- Git & Version Control
+## 📚 Expanding My Expertise In
+- Python (automation, scripting, and web applications)  
+- Responsive Web Design (mobile-first, accessibility-focused)  
+- UI/UX Principles (user-centered design, inclusive interfaces)  
+- React.js (component-based front-end development)  
+- Git & Version Control (collaborative coding workflows)  
 
 ---
 
 ## 🧠 Strengths
-
-- Analytical Thinker & Problem Solver 
-- Collaborative leader
-- Attention to Detail  
-- Effective Communicater
-
+- Analytical Thinker & Problem Solver  
+- Collaborative Leader & Team Builder  
+- Detail-Oriented with Strong Follow-Through  
+- Effective Communicator  
 
 ---
 
-- 📫 How to reach me ...
-
-- (https://linkedin.com/in/shelleywfraedrich)
-- (https://sfraedrich.dev) *(Coming Soon!)*  
-- 📫 Email: shelleywfraedrich@gmail.com
-
+## 📬 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/shelleywfraedrich)  
+- 🌐 [Portfolio Website](https://sfraedrich.dev) (Coming Soon!)  
+- 📧 Email: **shelleywfraedrich@gmail.com**  
 
 
-<!---
-SFraedrich/SFraedrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
