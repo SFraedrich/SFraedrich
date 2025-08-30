@@ -11,25 +11,22 @@ Now, I’m expanding into **front-end web development and design**, where I comb
 
 With over **30 years of leadership & project management experience** (including founding 3 businesses and co-founding **Covenant Digital**), I bring a proven ability to deliver results through **hard work, persistence, and attention to detail**.
 
----
-
 ## 🛠️ Tech Stack
-**Languages & Front-End:** HTML, CSS, JavaScript, Python, Bootstrap  
-**CMS & Tools:** WordPress, Squarespace, GitHub, Canva, Zoom, ChatGPT  
-**Project Management:** Monday.com, Microsoft Project  
-**Cloud & Office:** Google Cloud, Microsoft 365, Advanced Excel  
-**Digital Marketing:** SEO, Google Analytics, Meta Ads Manager, Mailchimp, Constant Contact  
-**Compliance Knowledge:** HIPAA, FLSA, EEO, FMLA, OSHA, I-9, E-Verify  
 
----
-## 📚 Expanding My Expertise In
-- Python (automation, scripting, and web applications)  
-- Responsive Web Design (mobile-first, accessibility-focused)  
-- UI/UX Principles (user-centered design, inclusive interfaces)  
-- React.js (component-based front-end development)  
-- Git & Version Control (collaborative coding workflows)  
+### ✅ Core Skills
+- **Front-End Development:** HTML5, CSS3 (Flexbox, Grid, Responsive Design), JavaScript (Vanilla JS)
+- **Content & CMS:** WordPress, Squarespace
+- **Design & Marketing Tools:** Canva, SEO, Google Analytics, Meta Ads Manager, Mailchimp, Constant Contact
+- **Project Management:** Monday.com, Microsoft Project
+- **Cloud & Productivity:** Google Cloud, Microsoft 365, Advanced Excel
+- **Business & Compliance Knowledge:** HIPAA, FLSA, EEO, FMLA, OSHA, I-9, E-Verify
 
----
+### 🚀 Expanding Expertise
+- **Programming & Frameworks:** Python, React.js, Bootstrap
+- **UI/UX Design Principles:** Inclusive & user-centered design, accessibility
+- **Version Control:** Git & GitHub workflows
+- **Responsive Web Design:** Mobile-first development, accessibility standards
+
 
 ## 🧠 Strengths
 - Analytical Thinker & Problem Solver  
