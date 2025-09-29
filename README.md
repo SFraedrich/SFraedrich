@@ -13,6 +13,14 @@ With over **30 years of leadership & project management experience** (including 
 
 ## 🛠️ Tech Stack
 
+**Core Web:** HTML5, CSS3, JavaScript (ES6+)  
+**Frameworks / Libraries:** React.js, Bootstrap  
+**Programming:** Python (OOP, scripting)  
+**Content Management:** WordPress, Squarespace, Wix  
+**Design & UX:** Inclusive & user-centered design, accessibility (WCAG)  
+**Version Control / Tools:** Git & GitHub, VS Code  
+**Other:** SEO fundamentals, Google Analytics, Canva
+
 ### ✅ Core Skills
 - **Front-End Development:** HTML5, CSS3 (Flexbox, Grid, Responsive Design), JavaScript (Vanilla JS)
 - **Content & CMS:** WordPress, Squarespace
