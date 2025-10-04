@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shelley West Fraedrich (@Sfraedrich)
 
 🌐 **Web Developer & Designer** | 🎯 Tech-Savvy Professional | 📍 Based in Phoenix, AZ  
-✨ Advocate for **responsive, accessible, and inclusive design**
+✨ Advocate for **responsive, WCAG, accessible, and inclusive design**
 
 ---
 
